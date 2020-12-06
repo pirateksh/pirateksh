@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Kshitiz's github stats](https://github-readme-stats.vercel.app/api?username=pirateksh&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+![](https://komarev.com/ghpvc/?username=pirateksh)
 <!--
 **pirateksh/pirateksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
